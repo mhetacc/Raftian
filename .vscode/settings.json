@@ -9,11 +9,20 @@
             },
             "cursorLeft"
         ],
-        "color_text": [
+        "latex_code_word": [
             {
                 "command": "type",
                 "args": {
-                    "text": "\\textcolor{changes}{}"
+                    "text": "\\verb++"
+                }
+            },
+            "cursorLeft"
+        ],
+        "latex_math": [
+            {
+                "command": "type",
+                "args": {
+                    "text": "$$"
                 }
             },
             "cursorLeft"
@@ -27,15 +36,6 @@
             },
             "cursorLeft",
             "cursorLeft",
-            "cursorLeft"
-        ],
-        "markdown_code_word": [
-            {
-                "command": "type",
-                "args": {
-                    "text": "``"
-                }
-            },
             "cursorLeft"
         ]
 
