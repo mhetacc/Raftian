@@ -2,7 +2,7 @@
 
 [Travian](https://www.travian.com/international) clone made with [Pygame](https://www.pygame.org/news) as a mean to apply the consensus algorithm [Raft](https://raft.github.io/).
 
-Report, that fully explains how the system work and came into fruition can be seen at: [report.pdf](https://github.com/mhetacc/RuntimesConcurrencyDistribution/blob/main/docs/report/report.pdf).
+A report that fully explains how the system work and came into fruition can be seen at: [report.pdf](https://github.com/mhetacc/RuntimesConcurrencyDistribution/blob/main/docs/report/report.pdf).
 
 ## Game Progression
 
